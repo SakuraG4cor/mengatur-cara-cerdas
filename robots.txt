@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://sakurag4cor.github.io/mengatur-cara-cerdas/sitemap.xml
